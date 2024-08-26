@@ -1,0 +1,24 @@
+
+When was the image created? 
+	
+	Answer:
+
+What are the dimensions of the image? (ex: 800x600)
+	
+	Answer:
+
+What is the make of the camera that took the picture?
+	
+	Answer:
+
+What is the model of the camera that took the picture?
+	
+	Answer:
+
+What is the exposure time for the picture? (ex: 1/200)
+	
+	Answer:
+
+What are the GPS coordinates where the was the picture taken? (Any standard format is acceptable)
+	
+	Answer:
