@@ -1,0 +1,21 @@
+
+What are the dimensions of the image? (ex: 800x600)
+	
+	Answer:
+
+What is the make of the camera that took the picture?
+	
+	Answer:
+
+What is the model of the camera that took the picture?
+	
+	Answer:
+
+What is the exposure time for the picture? (ex: 1/200)
+	
+	Answer:
+
+What is the File Type Extension of the image: 
+	
+	Answer: 
+	
