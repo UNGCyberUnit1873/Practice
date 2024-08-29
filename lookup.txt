@@ -1,12 +1,1 @@
 
-What type of DNS record holds the DNSSEC public signing key?
-	
-	Answer:	
-
-What type of DNS record is used to map hostnames to IPv6 addresses?
-	
-	Answer:
-
-What type of DNS record is used to delegate a DNS zone?
-	
-	Answer:
